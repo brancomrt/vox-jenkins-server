@@ -41,7 +41,7 @@ module "ec2_instance" {
     Terraform = "true"
     Environment = "Production"
     CC = "10504"
-    OwnerSquad = "Houston"
+    OwnerSquad = "Osaka"
     OwnerSRE = "Valfenda"
   }
 }
